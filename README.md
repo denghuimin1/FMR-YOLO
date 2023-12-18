@@ -1,3 +1,3 @@
 # FMR-YOLO
 海上红外舰船目标检测
-数据集链接为:https://drive.google.com/file/d/1laTRaTuWFWJs08rmRTUFReOsLjxS891I/view?usp=drive_link
+数据集申请地址：http://openai.iraytek.com/apply/Sea_shipping.html/
